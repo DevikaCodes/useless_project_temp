@@ -11,7 +11,7 @@ hii helloooo
 ### Team Members
 - Team Lead: devika - [College]
 - Member 2: delson - [College]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
 [2-3 lines about what your project does]
