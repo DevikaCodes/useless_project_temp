@@ -1,16 +1,16 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [hii delsuuu] 🎯
+# [project name ] 🎯
 
 
 ## Basic Details
 ### Team Name: []
 
-
+hii helloooo
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: devika - [College]
+- Member 2: delson - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
