@@ -1,47 +1,46 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [project name ] 🎯
+POETIC PHRASE GENERATOR CLOCK
 
 
 ## Basic Details
-### Team Name: []
+### Team Name: THANKAN CHETTANTE CODE
 
-hii helloooo
 ### Team Members
-- Team Lead: devika - [College]
-- Member 2: delson - [College]
+- MEMBER 1 DELSON DAVIS - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- MEMBER 2: DEViKA A S- SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
 
 
 ### Project Description
-[2-3 lines about what your project does]
+Phrase Generator Clock is a creative and interactive digital clock that combines the concept of timekeeping with dynamic phrase generation. Instead of just showing numbers or traditional clock hands, this clock generates and displays poetic or meaningful phrases that change as time passes. Each hour, minute, or second triggers a new phrase or word, creating an evolving stream of text that reflects the passage of time in a literary or artistic way.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Time itself is jealous of your creativity. Every time you try to think of a cool phrase or a witty comeback, time sneaks away silently and steals your ideas. This results in awkward silences, missed punchlines, and endless “ugh, I should’ve said that!” regrets.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built the Phrase Generator Clock — your very own time-telling hype squad! Instead of just staring at boring numbers, this clock throws random, quirky phrases at you like a caffeinated poet on a sugar rush. It makes sure your brain never runs out of witty comebacks or deep thoughts — even if you didn’t ask for them.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Vite (build tool and dev server)
+ESLint (code linting)
+PostCSS (CSS processing)
+TypeScript (typed JavaScript)
+Git (version control, as indicated by .gitignore)
+React (UI framework)
+Tailwind CSS (utility-first CSS framework)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm create vite@latest my-react-app --template react
 
 # Run
-[commands]
+npm install
+npm run dev
 
 ### Project Documentation
 For Software:
