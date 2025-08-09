@@ -46,14 +46,12 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1268" height="895" alt="Screenshot 2025-08-09 063635" src="https://github.com/user-attachments/assets/5c25abd9-5a0a-4027-93a2-50554d5c4144" /> we can set a time and a phrase according to that particular time 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1590" height="905" alt="Screenshot 2025-08-09 063657" src="https://github.com/user-attachments/assets/946f54ea-edfc-42ae-80c8-87e5009a1faa" />
+heres the full clock which has a noun,verb,and an adjective instead of numbers .The clock runs just like a real clock
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -80,8 +78,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
